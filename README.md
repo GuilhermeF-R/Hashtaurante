@@ -1,4 +1,4 @@
-# :plate_with_cutlery: Projeto: Hashtaurante
+# :plate_with_cutlery: Projeto: (Hashtaurante)[https://hashtaurante-devgferreira.vercel.app/]
 Projeto realizado durante a 3ª aula do Intensivão de JavaScript da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao) no YouTube. Nesse projeto, criamos um cardápio usando Vite + React.
 
 # :spaghetti: Funcionalidades:
